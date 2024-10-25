@@ -1,4 +1,0 @@
-com\getrosoft\demo\service\TrackingService.class
-com\getrosoft\demo\controller\TrackingController.class
-com\getrosoft\demo\DemoApplication.class
-com\getrosoft\demo\configuration\DynamoDBConfig.class
